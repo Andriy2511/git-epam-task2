@@ -2,8 +2,8 @@ line 1
 line 2
 line 3 step 7 changes
 line 4 step 7 changes
-line 5
-line 6
+line 5 step 8 changes
+line 6 step 8 changes
 line 7
 line 8
 line 9
