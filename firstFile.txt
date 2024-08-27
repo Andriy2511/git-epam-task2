@@ -5,6 +5,6 @@ line 4 step 7 changes
 line 5 step 8 changes
 line 6 step 8 changes
 line 7
-line 8
-line 9
+line 8 step 18 changes
+line 9 step 18 changes
 line 10
