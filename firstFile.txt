@@ -4,7 +4,7 @@ line 3 step 7 changes
 line 4 step 7 changes
 line 5 step 8 changes
 line 6 step 8 changes
-line 7
+line 7 step 20 changes
 line 8 step 18 changes
 line 9 step 18 changes
-line 10
+line 10 step 20 changes
